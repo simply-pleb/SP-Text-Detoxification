@@ -1,3 +1,5 @@
 *.tsv
 *.zip*
 bart-paradetox
+/models/cola/
+/models/sim/
