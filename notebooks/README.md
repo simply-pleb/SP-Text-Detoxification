@@ -1,1 +1,3 @@
-# SP-Text-Detoxification
+# Notebooks
+
+Data exploration, data augmentation and model experimentation 
