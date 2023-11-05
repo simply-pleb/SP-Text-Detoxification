@@ -1,3 +1,3 @@
-# SP-Text-Detoxification
+# External data
 
-https://github.com/s-nlp/paradetox/blob/main/paradetox/paradetox.tsv
+We use paradetox, https://github.com/s-nlp/paradetox/blob/main/paradetox/paradetox.tsv
